@@ -1,0 +1,66 @@
+
+table {
+    border-collapse:collapse;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.day {
+    text-align: start;
+}
+
+td {
+    padding: 0px 2px;
+    width: 90px;
+}
+tr:not(:first-child) {
+    text-align: end;
+}
+tr:first-child td {
+    text-align: start;
+}
+
+.colorNumber24 {
+    background-color:rgb(252, 68, 1) ;
+}
+.colorNumber22 {
+    background-color:rgb(248, 93, 37) ;
+}
+.colorNumber20 {
+    background-color:rgb(247, 103, 51) ;
+}
+.colorNumber16 {
+    background-color:rgb(248, 122, 76) ;
+}
+.colorNumber14 {
+    background-color:rgb(247, 136, 96) ;
+}
+.colorNumber12 {
+    background-color:rgb(245, 139, 100) ;
+}
+.colorNumber10 {
+    background-color:rgb(243, 157, 126) ;
+}
+.colorNumber8 {
+    background-color:rgb(245, 172, 146) ;
+}
+.colorNumber7 {
+    background-color:rgb(252, 180, 155) ;
+}
+.colorNumber6 {
+    background-color:rgb(248, 202, 185) ;
+}
+.colorNumber5 {
+    background-color:rgb(248, 215, 203) ;
+}
+.colorNumber4 {
+    background-color:rgb(248, 221, 211) ;
+}
+.colorNumber3 {
+    background-color:rgb(255, 235, 228) ;
+}
+.colorNumber2 {
+    background-color:rgb(250, 233, 227) ;
+}
+.colorNumber1 {
+    background-color:rgb(250, 242, 240) ;
+}
